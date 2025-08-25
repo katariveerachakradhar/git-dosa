@@ -1,3 +1,1 @@
 # Dosa Shop
-
-# Plain Dosa
